@@ -44,7 +44,6 @@ This repository is used to:
 ## project structures
 
 TnCC-SAREC-Mzp/
-│
 ├── projects/ # Club projects
 ├── resources/ # Study materials and references
 ├── events/ # Workshop content and event data
